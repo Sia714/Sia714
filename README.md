@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Full Stack Software Developer from India</h3>
 
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sia714](https://github.com/Sia714)
+- 👨‍💻 All of my projects are available at [https://github.com/Sia714](https://github.com/Sia714).
 
-- 📫 How to reach me **sayjan7777@gmail.com**
+- 📫 How to reach me **sayjan7777@gmail.com**.
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sayjan-j-singh-a25304252/](https://www.linkedin.com/in/sayjan-j-singh-a25304252/)
 
