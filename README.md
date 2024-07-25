@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayjan J. Singh</h1>
 <h3 align="center">A passionate Full Stack Software Developer from India</h3>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sia714)](https://git.io/streak-stats)
 - 🌱 I’m currently learning **C++**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sia714](https://github.com/Sia714)
