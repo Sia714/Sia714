@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sayjan7777@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sayjan-j-singh-a25304252/](https://www.linkedin.com/in/sayjan-j-singh-a25304252/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/sayjan-j-singh-a25304252/](https://www.linkedin.com/in/sayjan-j-singh/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
