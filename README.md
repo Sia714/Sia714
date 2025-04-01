@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sia714" alt="sia714" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sia714](https://github.com/Sia714)
 
