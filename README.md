@@ -5,11 +5,13 @@
 
 - 🌱 I’m currently learning **Node.js**.
 
+- 📫 Check out my portfolio at [https://sayjan-portfolio.vercel.app](https://sayjan-portfolio.vercel.app).
+  
 - 👨‍💻 All of my projects are available at [https://github.com/Sia714](https://github.com/Sia714)
 
 - 📫 How to reach me **sayjan7777@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sayjan-j-singh/](https://www.linkedin.com/in/sayjan-j-singh/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/sayjan-j-singh](https://www.linkedin.com/in/sayjan-j-singh/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
